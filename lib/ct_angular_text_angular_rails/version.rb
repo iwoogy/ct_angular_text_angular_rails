@@ -1,3 +1,3 @@
 module CtAngularTextAngularRails
-  VERSION = "0.0.1"
+  VERSION = "1.2.1-pre5"
 end
