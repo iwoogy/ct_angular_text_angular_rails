@@ -1,0 +1,13 @@
+---
+module:
+  name: "textAngular"
+uis:
+  - name: text-angular
+    dependencies:
+      packages:
+        - name: angular-sanitize       
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
